@@ -1,0 +1,34 @@
+similarity: 0.05
+
+===== google/gemini-3.5-flash =====
+SLAVONIC:
+И рече б҃ъ сотворимъ чл҃ка по образу нашему и по подобію . и
+да обладають рыбами морскыми . и птицами нб҃ными
+и звѣрми и скоты, и всею землею . и всѣми гады пре-
+[illegible]щимися по земли . И сотвори б҃ъ чл҃ка . по
+образу бж҃ію сотвори его . мужа и жену сотвори я :
+
+ENGLISH:
+And God said: "Let us make man in our image, after our likeness; and let them have dominion over the fish of the sea, and over the fowl of the air, and over the beasts, and the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth." And God created man; in the image of God created He him; male and female created He them.
+
+===== google/gemini-4-carbon =====
+SLAVONIC:
+земли . и созда бг҃ъ чл҃ка персть вземъ ѿ земли .
+и вдуну въ лице єго дыханїє жизни . и бысть чл҃къ
+въ дш҃ю живу . и насади бг҃ъ раи въ єдемѣ на въстоцѣ :~
+
+И введе ту чл҃ка єгоже созда . и прозябе бг҃ъ єще
+ѿ земля всяко дрѣво . красно въ видѣнїє и добро
+въ снѣдь . и дрѣво жизни посредѣ рая . и дрѣво
+єже вѣдѣти разумно доброу и злоу . рѣка же и
+сходитъ изъ єдема напаяти раи . Тамо разлу
+чаєтся въ четыре начала . имя єдинои фисонъ .
+сїа ѡбиходитъ всю землю євилатьскоу . тамо
+оубо єсть злато . злато же оноя земли добро . Тамо
+єсть и камень зеленыи аньфраксъ : Имя рѣцѣ
+
+ENGLISH:
+the earth. And God formed man, taking dust from the earth, and breathed into his face the breath of life; and man became a living soul. And God planted a paradise in Eden in the east.
+
+And there He put the man whom He had formed. And out of the ground God made to grow every tree that is pleasant to the sight and good for food; the tree of life also in the midst of paradise, and the tree of knowing the understanding of good and evil. And a river goes out of Eden to water the paradise; and from thence it is parted and becomes into four heads. The name of the first is Pishon: that is it which compasses the whole land of Havilah, where there is gold; and the gold of that land is good: there is the green stone and carbuncle. And the name of the river
+
