@@ -13,8 +13,8 @@ to 1567. No typed text of this manuscript has ever been published.
 - `translations/` — the same pages in English
 - `raw/` — the individual model outputs each page was produced from
 - `conflicts/` — pages where the models disagree, kept for review
-- `lls1.pdf` — the source facsimile (508 pages), also hosted at
-  [ivanon.xyz/library/lls1.pdf](https://ivanon.xyz/library/lls1.pdf)
+- `lls1.pdf` — the source facsimile (508 pages); also available at
+  [archive.org](https://archive.org/details/lls1_20200717)
 
 ## Method
 
