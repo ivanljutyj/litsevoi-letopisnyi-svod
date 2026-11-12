@@ -38,14 +38,19 @@ resumable and batch-commits to GitHub every 25 pages.
 ## Scope
 
 The goal is the complete chronicle — all volumes — translated into English
-from the typed Russian translation on this repo:
+from the typed Russian translation.
 
-| Book | Contents | Status |
+Work runs on the three Учебник volumes of the Царская школа edition (the
+illustrated translation edition, miniatures + typed Russian on every page):
+
+| Volume | Pages | Status |
 |---|---|---|
-| 1 | Biblical history | translation running |
-| 2–4 | Biblical history | queued |
-| 5 | Troy | queued |
-| 6 | Alexander the Great | queued |
-| 7 | Jewish War | queued |
-| 8–10 | Rome. Byzantium (87–967) | queued |
-| Русская летописная история, Книги 1–23 | Russian history to 1567 | queued |
+| Учебник 1 | 612 | in progress (OCR extraction feeds the translation run) |
+| Учебник 2 | 742 | queued |
+| Учебник 3 | 727 | queued |
+
+After those, the remaining volumes of the edition, in mirror order:
+Библейская история (Тома 1–4), Земная жизнь Иисуса Христа, Иудейская война
+(2 книги), Рим. Византия 87–967 (6 книг), Русская летописная история
+(Книги 1–23). Progress is tracked in the commit log — the translation runner
+batch-commits every 25 pages.
