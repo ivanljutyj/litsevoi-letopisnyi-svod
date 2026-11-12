@@ -15,9 +15,7 @@ nothing less — no transcription of the manuscript hand.
 
 Source facsimiles are not stored in the repo: the complete Царская школа
 edition (manuscript facsimile + typed Russian translation on each page) is
-mirrored at [ivanon.xyz/library/svod/](https://ivanon.xyz/library/svod/), and
-the raw Book 1 scan is on
-[archive.org](https://archive.org/details/lls1_20200717).
+mirrored at [ivanon.xyz/library/svod/](https://ivanon.xyz/library/svod/).
 
 ## Method
 
@@ -29,11 +27,13 @@ resumable and batch-commits to GitHub every 25 pages.
 
 ## Sources
 
-- Царская школа digital edition: [pravoslavnyy.ru](https://pravoslavnyy.ru/hristianstvo/pravoslavnie-knigi/lls/)
-  (Актеон facsimile edition, 2008 — print run of 50 copies), mirrored at
+- Source text: the typed Russian in the three Учебник volumes of the
+  Царская школа digital edition
+  ([pravoslavnyy.ru](https://pravoslavnyy.ru/hristianstvo/pravoslavnie-knigi/lls/),
+  Актеон edition, 2008 — print run of 50 copies); PDFs mirrored at
   [ivanon.xyz/library/svod/](https://ivanon.xyz/library/svod/)
-- Raw Book 1 facsimile: [archive.org](https://archive.org/details/lls1_20200717)
-- Digitized editions: [runivers.ru](https://runivers.ru),
+  as `uchebnik_kniga1.pdf` – `uchebnik_kniga3.pdf`
+- Manuscript digitizations (reference only): [runivers.ru](https://runivers.ru),
   [svod.ruvera.ru](https://svod.ruvera.ru)
 
 ## Scope
