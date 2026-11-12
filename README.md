@@ -32,7 +32,19 @@ serves as a check on the transcription.
 - Digitized editions: [runivers.ru](https://runivers.ru),
   [svod.ruvera.ru](https://svod.ruvera.ru)
 
-## Status
+## Scope
 
-Book 1 transcription in progress. Books 2–4 (Biblical history) and 6
-(Alexander the Great) exist as scans and can follow with the same pipeline.
+The goal is the complete chronicle — all volumes — transcribed and translated
+into English on this repo. In progress:
+
+| Book | Contents | Scans | Status |
+|---|---|---|---|
+| 1 | Biblical history | [archive.org](https://archive.org/details/lls1_20200717) | transcription running |
+| 2 | Biblical history | archive.org (`lls2`) | queued |
+| 3 | Biblical history | archive.org (`lls3`) | queued |
+| 4 | Biblical history | archive.org (`lls4`) | queued |
+| 5 | Troy | — | seeking scans |
+| 6 | Alexander the Great | archive.org (`lls6`) | queued |
+| 7 | Jewish War | — | seeking scans |
+| 8–10 | Rome. Byzantium (87–967) | — | seeking scans |
+| Rus volumes (Русь, Голицынский, Лаптевский, Царственная книга) | Russian history to 1567 | runivers / Актеон edition | queued |
