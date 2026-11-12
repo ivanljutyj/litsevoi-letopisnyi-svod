@@ -37,14 +37,19 @@ serves as a check on the transcription.
 The goal is the complete chronicle — all volumes — transcribed and translated
 into English on this repo. In progress:
 
-| Book | Contents | Scans | Status |
-|---|---|---|---|
-| 1 | Biblical history | [archive.org](https://archive.org/details/lls1_20200717) | transcription running |
-| 2 | Biblical history | archive.org (`lls2`) | queued |
-| 3 | Biblical history | archive.org (`lls3`) | queued |
-| 4 | Biblical history | archive.org (`lls4`) | queued |
-| 5 | Troy | — | seeking scans |
-| 6 | Alexander the Great | archive.org (`lls6`) | queued |
-| 7 | Jewish War | — | seeking scans |
-| 8–10 | Rome. Byzantium (87–967) | — | seeking scans |
-| Rus volumes (Русь, Голицынский, Лаптевский, Царственная книга) | Russian history to 1567 | runivers / Актеон edition | queued |
+All volumes are available in the Царская школа digital edition
+([pravoslavnyy.ru](https://pravoslavnyy.ru/hristianstvo/pravoslavnie-knigi/lls/)),
+which typesets a modern Russian translation alongside each manuscript page.
+Mirrored at [ivanon.xyz/library/svod/](https://ivanon.xyz/library/svod/).
+The Slavonic transcription (the manuscript hand itself) has never been typed
+anywhere — that is what this repo produces.
+
+| Book | Contents | Status |
+|---|---|---|
+| 1 | Biblical history | transcription running |
+| 2–4 | Biblical history | queued |
+| 5 | Troy | queued |
+| 6 | Alexander the Great | queued |
+| 7 | Jewish War | queued |
+| 8–10 | Rome. Byzantium (87–967) | queued |
+| Русская летописная история, Книги 1–23 | Russian history to 1567 | queued |
