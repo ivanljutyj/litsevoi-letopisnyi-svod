@@ -2,10 +2,11 @@
 
 English translation of the Учебник edition of the Litsevoi letopisnyi svod —
 the Facial Chronicle of Ivan the Terrible (1568–1576), the largest illustrated
-chronicle of the Middle Ages. The goal is bounded: translate the three
-Учебник volumes of the Царская школа edition (the illustrated edition, typed
-Russian on every page) into English, page by page. Nothing more, nothing
-less — no transcription of the manuscript hand, no volumes beyond these three.
+chronicle of the Middle Ages. The Учебник edition of the Царская школа — three
+volumes, the illustrated edition with typed Russian on every page — already
+covers the complete chronicle, from the Creation to 1567. The goal is bounded:
+translate those three volumes into English, page by page. Nothing more,
+nothing less — no transcription of the manuscript hand.
 
 ## What is here
 
@@ -37,7 +38,8 @@ resumable and batch-commits to GitHub every 25 pages.
 
 ## Scope
 
-The project is exactly the three Учебник volumes — that is the whole goal:
+The project is exactly the three Учебник volumes — they cover the complete
+chronicle, so that is the whole goal:
 
 | Volume | Pages | Status |
 |---|---|---|
