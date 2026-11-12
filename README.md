@@ -11,10 +11,6 @@ English page by page.
 
 - `translations-en/` — the English translation, page by page
 - `source-ru/` — the typed Russian translation each page is translated from
-- `raw/` — the individual model outputs each page was produced from
-- `conflicts/` — pages where the models disagree, kept for review
-- `transcriptions/`, `translations/` — an early Book 1 pass from the raw
-  facsimile, kept for reference
 
 Source facsimiles are not stored in the repo: the complete Царская школа
 edition (manuscript facsimile + typed Russian translation on each page) is
@@ -24,12 +20,11 @@ the raw Book 1 scan is on
 
 ## Method
 
-Each page of the typed Russian translation is translated independently by two
-frontier models (gemini-3.5-flash and gemini-4-carbon). Where the two
-translations agree, the consensus text is kept; where they diverge, the fuller
-reading is kept and the disagreement is preserved in `conflicts/` with both
-readings for review. The manuscript facsimile printed alongside the Russian
-on each page serves as the arbiter for anything ambiguous.
+Each page of the typed Russian translation is rendered into English by one
+model (deepseek-v4.1-flash via OpenRouter, literary register, paragraphs and
+section headers preserved). The manuscript facsimile printed alongside the
+Russian on each page is the arbiter for anything ambiguous. The run is
+resumable and batch-commits to GitHub every 25 pages.
 
 ## Sources
 
