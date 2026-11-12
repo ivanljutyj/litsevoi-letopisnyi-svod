@@ -13,8 +13,14 @@ to 1567. No typed text of this manuscript has ever been published.
 - `translations/` — the same pages in English
 - `raw/` — the individual model outputs each page was produced from
 - `conflicts/` — pages where the models disagree, kept for review
-- `lls1.pdf` — the source facsimile (508 pages); also available at
-  [archive.org](https://archive.org/details/lls1_20200717)
+- `source-ru/` — the typed Russian translation used as the working reference,
+  page by page (Царская школа edition)
+
+Source facsimiles are not stored in the repo: the complete Царская школа
+edition (manuscript facsimile + typed Russian translation on each page) is
+mirrored at [ivanon.xyz/library/svod/](https://ivanon.xyz/library/svod/), and
+the raw Book 1 scan is on
+[archive.org](https://archive.org/details/lls1_20200717).
 
 ## Method
 
