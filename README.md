@@ -1,11 +1,11 @@
 # Лицевой летописный свод — Litsevoi letopisnyi svod
 
-English translation of the Litsevoi letopisnyi svod — the Facial Chronicle of
-Ivan the Terrible (1568–1576), the largest illustrated chronicle of the Middle
-Ages: 10 volumes, ~10,000 leaves, 16,000+ miniatures, covering history from
-the Creation to 1567. The goal is translation only: the source text is the
-typed modern Russian translation of the Царская школа edition, rendered into
-English page by page.
+English translation of the Учебник edition of the Litsevoi letopisnyi svod —
+the Facial Chronicle of Ivan the Terrible (1568–1576), the largest illustrated
+chronicle of the Middle Ages. The goal is bounded: translate the three
+Учебник volumes of the Царская школа edition (the illustrated edition, typed
+Russian on every page) into English, page by page. Nothing more, nothing
+less — no transcription of the manuscript hand, no volumes beyond these three.
 
 ## What is here
 
@@ -37,11 +37,7 @@ resumable and batch-commits to GitHub every 25 pages.
 
 ## Scope
 
-The goal is the complete chronicle — all volumes — translated into English
-from the typed Russian translation.
-
-Work runs on the three Учебник volumes of the Царская школа edition (the
-illustrated translation edition, miniatures + typed Russian on every page):
+The project is exactly the three Учебник volumes — that is the whole goal:
 
 | Volume | Pages | Status |
 |---|---|---|
@@ -49,8 +45,5 @@ illustrated translation edition, miniatures + typed Russian on every page):
 | Учебник 2 | 742 | queued |
 | Учебник 3 | 727 | queued |
 
-After those, the remaining volumes of the edition, in mirror order:
-Библейская история (Тома 1–4), Земная жизнь Иисуса Христа, Иудейская война
-(2 книги), Рим. Византия 87–967 (6 книг), Русская летописная история
-(Книги 1–23). Progress is tracked in the commit log — the translation runner
-batch-commits every 25 pages.
+Progress is tracked in the commit log — the translation runner batch-commits
+every 25 pages.
